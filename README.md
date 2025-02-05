@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="350" src="https://fiverr-res.cloudinary.com/images/t_main1,q_auto,f_auto,q_auto,f_auto/gigs/307595331/original/02d5440f4ba85f2b2fb27b69094acabbfa5fef4d/create-website-using-react-tailwind-bootstrap.jpg"  />
+  <img height="350" src="https://i.ibb.co.com/6RnhxQMS/create-website-using-react-tailwind-bootstrap.webp"  />
 </div>
 
 ###
@@ -59,19 +59,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Enamul-Haque-Shojib&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=Enamul-Haque-Shojib&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-</div>
-
-###
-
-<h3 align="center">Connect With Me</h3>
-
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
 </div>
 
 ###
