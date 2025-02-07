@@ -20,7 +20,12 @@
 
 ###
 
-<p align="left">- I am studying Bachelor of Computer Science<br>- I am exploring more advanced React js<br>- I am exploring mongoose<br>- I am exploring Express js</p>
+<ul align="left">
+  <li>🎓 I am studying <b>Bachelor of Computer Science</b></li>
+  <li>⚛️ I am exploring more advanced <b>React.js</b></li>
+  <li>🗃️ I am exploring <b>Mongoose</b></li>
+  <li>🚀 I am exploring <b>Express.js</b></li>
+</ul>
 
 ###
 
