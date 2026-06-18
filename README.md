@@ -66,6 +66,8 @@
   <img src="https://skillicons.dev/icons?i=express" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://e7.pngegg.com/pngimages/396/90/png-clipart-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue.png" height="40" alt="mongodb logo"  />
 </div>
 
 ###
