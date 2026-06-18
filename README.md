@@ -4,7 +4,7 @@
 
 ###
 
-<h1 align="center">Hello there...👋 I am Enamul Haque<br>Frontend Developer</h1>
+<h1 align="center">Hello there...👋 I am Enamul Haque<br>Full Stack Developer</h1>
 
 ###
 
@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">I am a passionate web developer and working with modern web technologies. My focus is on building dynamic and responsive web applications using React.js and Tailwind CSS for the frontend, while leveraging Express.js and MongoDB for backend development. I am always eager to learn new technologies, improve my skills, and collaborate on exciting projects.<br> Always exploring, always coding! Let's connect and build something awesome.</p>
+<p align="left">I am a passionate web developer and working with modern web technologies. My focus is on building dynamic and responsive web applications using React.js, Next js and Tailwind CSS for the frontend, while leveraging Express.js, PostgreSQL, Prisma, MongoDB and Mongoose for backend development. I am always eager to learn new technologies, improve my skills, and collaborate on exciting projects.<br> Always exploring, always coding! Let's connect and build something awesome.</p>
 
 ###
 
@@ -23,8 +23,11 @@
 <ul align="left">
   <li>🎓 I am studying <b>Bachelor of Computer Science</b></li>
   <li>⚛️ I am exploring more advanced <b>React.js</b></li>
+  <li>⚛️ I am exploring more advanced <b>Next.js</b></li>
   <li>🗃️ I am exploring <b>Mongoose</b></li>
   <li>🚀 I am exploring <b>Express.js</b></li>
+  <li>🚀 I am exploring <b>PostgreSQL.js</b></li>
+  <li>🚀 I am exploring <b>Prisma.js</b></li>
 </ul>
 
 ###
