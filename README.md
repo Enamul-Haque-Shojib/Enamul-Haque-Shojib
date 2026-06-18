@@ -67,7 +67,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://e7.pngegg.com/pngimages/396/90/png-clipart-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue.png" height="40" alt="mongodb logo"  />
+  <img src="https://e7.pngegg.com/pngimages/396/90/png-clipart-postgresql-database-logo-computer-icons-replication-software-developer-miscellaneous-blue.png" height="40" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2107/PNG/512/file_type_light_prisma_icon_130444.png" height="40" alt="prisma logo"  />
 </div>
 
 ###
