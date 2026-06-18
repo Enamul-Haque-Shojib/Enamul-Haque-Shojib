@@ -43,6 +43,8 @@
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1xtQw61ivPb-fkZUGZIr37kmyV0gGwNpvIW_PYhwAD--_FbTAFmk5CbyU&s=10" height="40" alt="next js logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
